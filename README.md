@@ -27,8 +27,9 @@ Each strategy is applied to the same document and evaluated using:
 | Fixed-size |       16 |      195.4 |    17.9 | 126 | 200 |
 | Sentence   |       44 |       80.3 |    22.8 |  31 | 123 |
 | Paragraph  |       46 |       58.2 |    27.7 |  17 | 147 |
-| Semantic   |       21 |      127.4 |    94.3 |   1 | 248 |
+| Semantic   |       26 |      102.9 |    92.2 |   1 | 247 |
 | Recursive  |       14 |      220.0 |    45.6 | 105 | 250 |
+
 
 ## Conclusion
 
